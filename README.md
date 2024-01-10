@@ -1,6 +1,6 @@
-# Project Name
+# DNN Phylogeny
 
-> Project description one-liner
+> Research project to identify the adaption reuse patterns of DNN models via phylogeny 
 
 ## About
 
